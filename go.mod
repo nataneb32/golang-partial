@@ -1,4 +1,4 @@
-module partial
+module github.com/nataneb32/golang-partial
 
 go 1.19
 
